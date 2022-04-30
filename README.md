@@ -1,3 +1,3 @@
 # super-duper-poker
 
-## this is our project claled poker
+## this is our project called (fixed spelling)
